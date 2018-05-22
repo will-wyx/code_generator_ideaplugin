@@ -34,7 +34,7 @@
         <!--<add-to-group group-id="DatabaseViewPopupMenu" anchor="first"/>-->
         <!--</action>-->
         <!--<group id="BundleActions" text="Bundle" popup="true">-->
-        <action id="NewBundle" class="NewBundle" text="NewBundle" description="NewBundle">
+        <action id="NewBundle" class="com.wyx.NewBundle" text="NewBundle" description="NewBundle">
             <!--<add-to-group group-id="DatabaseViewPopupMenu" anchor="first"/>-->
             <!--<add-to-group group-id="DatabaseView.Tools" anchor="first"/>-->
             <add-to-group group-id="EditorPopupMenu" anchor="first"/>
